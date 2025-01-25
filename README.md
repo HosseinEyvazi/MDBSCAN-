@@ -1,2 +1,2 @@
-# MDBSCAN-
+# MDBSCAN+
 MDBSCAN+ implementation
